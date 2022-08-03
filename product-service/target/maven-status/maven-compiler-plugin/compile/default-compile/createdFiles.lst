@@ -1,0 +1,10 @@
+com\hky\productservice\ProductServiceApplication.class
+com\hky\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\hky\productservice\repository\ProductRepository.class
+com\hky\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\hky\productservice\dto\ProductResponse.class
+com\hky\productservice\controller\ProductController.class
+com\hky\productservice\model\Product.class
+com\hky\productservice\model\Product$ProductBuilder.class
+com\hky\productservice\service\ProductService.class
+com\hky\productservice\dto\ProductRequest.class

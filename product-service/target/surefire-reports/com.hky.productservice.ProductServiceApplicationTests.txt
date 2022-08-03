@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.hky.productservice.ProductServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 17.317 s <<< FAILURE! - in com.hky.productservice.ProductServiceApplicationTests
+com.hky.productservice.ProductServiceApplicationTests  Time elapsed: 17.315 s  <<< ERROR!
+java.lang.IllegalStateException: Could not find a valid Docker environment. Please see logs and check configuration
+
